@@ -128,9 +128,10 @@ C:\Users\moham\OneDrive\Desktop\Projects\C#\ToDoList\obj\Debug\net8.0\staticweba
 C:\Users\moham\OneDrive\Desktop\Projects\C#\ToDoList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Todolist.props
 C:\Users\moham\OneDrive\Desktop\Projects\C#\ToDoList\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\moham\OneDrive\Desktop\Projects\C#\ToDoList\obj\Debug\net8.0\scopedcss\bundle\Todolist.styles.css
-C:\Users\moham\OneDrive\Desktop\Projects\C#\ToDoList\obj\Debug\net8.0\Todolist.csproj.CopyComplete
 C:\Users\moham\OneDrive\Desktop\Projects\C#\ToDoList\obj\Debug\net8.0\Todolist.dll
 C:\Users\moham\OneDrive\Desktop\Projects\C#\ToDoList\obj\Debug\net8.0\refint\Todolist.dll
 C:\Users\moham\OneDrive\Desktop\Projects\C#\ToDoList\obj\Debug\net8.0\Todolist.pdb
 C:\Users\moham\OneDrive\Desktop\Projects\C#\ToDoList\obj\Debug\net8.0\Todolist.genruntimeconfig.cache
 C:\Users\moham\OneDrive\Desktop\Projects\C#\ToDoList\obj\Debug\net8.0\ref\Todolist.dll
+C:\Users\moham\OneDrive\Desktop\Projects\C#\Todolist\obj\Debug\net8.0\Todolist.sourcelink.json
+C:\Users\moham\OneDrive\Desktop\Projects\C#\ToDoList\obj\Debug\net8.0\Todolist.csproj.Up2Date

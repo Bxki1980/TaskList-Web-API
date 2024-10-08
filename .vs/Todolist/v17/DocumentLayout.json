@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08A4F9F6-36C0-4BE2-91D7-FF13C5141402}|Todolist.csproj|c:\\users\\moham\\onedrive\\desktop\\projects\\c#\\todolist\\repositories\\itaskrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A4F9F6-36C0-4BE2-91D7-FF13C5141402}|Todolist.csproj|solutionrelative:repositories\\itaskrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A4F9F6-36C0-4BE2-91D7-FF13C5141402}|Todolist.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\repositories\\taskrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A4F9F6-36C0-4BE2-91D7-FF13C5141402}|Todolist.csproj|solutionrelative:repositories\\taskrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A4F9F6-36C0-4BE2-91D7-FF13C5141402}|Todolist.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\controllers\\taskcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A4F9F6-36C0-4BE2-91D7-FF13C5141402}|Todolist.csproj|solutionrelative:controllers\\taskcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A4F9F6-36C0-4BE2-91D7-FF13C5141402}|Todolist.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A4F9F6-36C0-4BE2-91D7-FF13C5141402}|Todolist.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A4F9F6-36C0-4BE2-91D7-FF13C5141402}|Todolist.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A4F9F6-36C0-4BE2-91D7-FF13C5141402}|Todolist.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A4F9F6-36C0-4BE2-91D7-FF13C5141402}|Todolist.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\models\\taskmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A4F9F6-36C0-4BE2-91D7-FF13C5141402}|Todolist.csproj|solutionrelative:models\\taskmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A4F9F6-36C0-4BE2-91D7-FF13C5141402}|Todolist.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08A4F9F6-36C0-4BE2-91D7-FF13C5141402}|Todolist.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T14:45:40.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T14:40:18.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskControler.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\Controllers\\TaskControler.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskControler.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\Controllers\\TaskControler.cs",
+              "RelativeToolTip": "Controllers\\TaskControler.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowGkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T22:30:15.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\Repositories\\TaskRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\TaskRepositories.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\Repositories\\TaskRepositories.cs",
+              "RelativeToolTip": "Repositories\\TaskRepositories.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T22:28:27.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITaskRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\Repositories\\ITaskRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\ITaskRepositories.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\Repositories\\ITaskRepositories.cs",
+              "RelativeToolTip": "Repositories\\ITaskRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T22:28:07.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-17T15:32:11.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskModels.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\Models\\TaskModels.cs",
+              "RelativeDocumentMoniker": "Models\\TaskModels.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Projects\\C#\\Todolist\\Models\\TaskModels.cs",
+              "RelativeToolTip": "Models\\TaskModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T20:26:59.24Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
